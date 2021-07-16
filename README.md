@@ -17,6 +17,7 @@
 <img align="left" src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img align="left" src="https://img.icons8.com/officel/48/000000/java-eclipse.png"/>
